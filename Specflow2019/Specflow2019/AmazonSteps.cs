@@ -15,6 +15,7 @@ namespace Specflow2019
         public void GivenIAmNavigateTo(string p0)
         {
             driver.Url = p0;
+            int a = 1;
         }
 
         [Given(@"I have clicked on Sign in link")]
