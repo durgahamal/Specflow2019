@@ -6683,11 +6683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\birajan\\Downloads\\Specflow2019\\Specflow2019\\Specflow2019\\Specflow2019.csproj",
+      "projectUniqueName": "C:\\Users\\birajan\\Github\\Specflow2019\\Specflow2019\\Specflow2019\\Specflow2019.csproj",
       "projectName": "Specflow2019",
-      "projectPath": "C:\\Users\\birajan\\Downloads\\Specflow2019\\Specflow2019\\Specflow2019\\Specflow2019.csproj",
+      "projectPath": "C:\\Users\\birajan\\Github\\Specflow2019\\Specflow2019\\Specflow2019\\Specflow2019.csproj",
       "packagesPath": "C:\\Users\\birajan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\birajan\\Downloads\\Specflow2019\\Specflow2019\\Specflow2019\\obj\\",
+      "outputPath": "C:\\Users\\birajan\\Github\\Specflow2019\\Specflow2019\\Specflow2019\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\birajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
